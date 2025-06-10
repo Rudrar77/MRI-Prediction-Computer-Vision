@@ -101,15 +101,6 @@ The project includes visualization capabilities:
 4. **Performance Metrics**: Comprehensive evaluation using precision, recall, and F1-score
 5. **Visual Analysis**: Sample visualization and prediction comparison tools
 
-## Future Improvements
-
-Based on the current results, potential improvements could include:
-- **Data Augmentation**: Increase dataset diversity
-- **Model Architecture**: Experiment with different CNN architectures or transfer learning
-- **Class Balancing**: Address class imbalance if present
-- **Hyperparameter Tuning**: Optimize learning rate, batch size, and model parameters
-- **Ensemble Methods**: Combine multiple models for better performance
-
 ## License
 
 Please refer to the original dataset license from Kaggle for usage terms and conditions.
